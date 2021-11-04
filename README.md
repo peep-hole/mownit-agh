@@ -1,11 +1,9 @@
 # mownit_agh
-Raports prepared for MOWNiT (numerical methods) course at AGH UST
+Raports prepared for MOWNiT (numerical methods) course at AGH UST. Raports: 2, 5, 8 and 10 are based on more complex problems so I added descriptions.
 
 [1. Computer arithmetics](https://github.com/peep-hole/mownit-agh/tree/main/lab1)
 
 [2. Solving systems of linear equations](https://github.com/peep-hole/mownit-agh/tree/main/lab2) - Program that analyzes the electrical circuit using two methods: Kirchhoff method and nodal analysis.
-
-![circuit](https://github.com/peep-hole/mownit-agh/blob/main/lab2/circuit.png)
 
 [3. Interpolation](https://github.com/peep-hole/mownit-agh/tree/main/lab3)
 
