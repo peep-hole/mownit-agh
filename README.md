@@ -1,5 +1,5 @@
 # mownit_agh
-Raports prepared for MOWNiT (numerical methods) course at AGH UST. Raports: 2, 5, 8 and 10 are based on more complex problems so I added descriptions.
+Raports prepared for MOWNiT (numerical methods) course at AGH UST. Raports: 2, 5, 8 and 10 are in form of small projects.
 
 [1. Computer arithmetics](https://github.com/peep-hole/mownit-agh/tree/main/lab1)
 
